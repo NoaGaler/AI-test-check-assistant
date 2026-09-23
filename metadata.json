@@ -1,0 +1,8 @@
+{
+  "name": "AutoGrade AI - Exam Logic Evaluator",
+  "description": "Automated exam paper grading engine that extracts student credentials, transcribes handwritten Python code, verifies logic against LeetCode criteria, and outputs fair structured evaluations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
